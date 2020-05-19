@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Flashcards/task" />
+            <option value="$PROJECT_DIR$/Problems/Area printer" />
+            <option value="$PROJECT_DIR$/Problems/Complex numbers" />
+            <option value="$PROJECT_DIR$/Problems/Composition" />
+            <option value="$PROJECT_DIR$/Problems/Cutting the fraction" />
+            <option value="$PROJECT_DIR$/Problems/Distance" />
+            <option value="$PROJECT_DIR$/Problems/First predicate" />
+            <option value="$PROJECT_DIR$/Problems/Fractional part" />
+            <option value="$PROJECT_DIR$/Problems/Function composition" />
+            <option value="$PROJECT_DIR$/Problems/Function generator" />
+            <option value="$PROJECT_DIR$/Problems/Get last digit" />
+            <option value="$PROJECT_DIR$/Problems/Handle arithmetic exception" />
+            <option value="$PROJECT_DIR$/Problems/Handle number format exception" />
+            <option value="$PROJECT_DIR$/Problems/Handle string exception" />
+            <option value="$PROJECT_DIR$/Problems/Letters" />
+            <option value="$PROJECT_DIR$/Problems/Max" />
+            <option value="$PROJECT_DIR$/Problems/Max of four numbers" />
+            <option value="$PROJECT_DIR$/Problems/Most common" />
+            <option value="$PROJECT_DIR$/Problems/National assembly" />
+            <option value="$PROJECT_DIR$/Problems/Not  predicate" />
+            <option value="$PROJECT_DIR$/Problems/Number squared" />
+            <option value="$PROJECT_DIR$/Problems/Patient needs a doctor" />
+            <option value="$PROJECT_DIR$/Problems/Quadratic equation" />
+            <option value="$PROJECT_DIR$/Problems/Reddit" />
+            <option value="$PROJECT_DIR$/Problems/Strings as objects" />
+            <option value="$PROJECT_DIR$/Problems/Triangle" />
+            <option value="$PROJECT_DIR$/Problems/copy() usage" />
+            <option value="$PROJECT_DIR$/Problems/equals() check" />
+            <option value="$PROJECT_DIR$/Problems/toString() modification" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

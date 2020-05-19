@@ -1,0 +1,13 @@
+# Project exclude paths
+/.gradle/
+/Flashcards/task/build/
+/Flashcards/task/out/
+/Flashcards/task/out/production/classes/
+/Problems/Handle number format exception/out/
+/Problems/Handle number format exception/out/production/classes/
+/Problems/Handle string exception/out/
+/Problems/Handle string exception/out/production/classes/
+/Problems/Most common/out/
+/Problems/Most common/out/production/classes/
+/Problems/Patient needs a doctor/out/
+/Problems/Patient needs a doctor/out/production/classes/
